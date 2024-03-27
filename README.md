@@ -1,4 +1,4 @@
-# Projeto de Envio de Análise Diária das Cotações
+# Projeto de Envio de Análise das Cotações
 
 Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerdata.
 

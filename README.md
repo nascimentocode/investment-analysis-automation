@@ -4,7 +4,7 @@ Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerd
 
 ## Objetivo
 
-O principal objetivo deste projeto é automatizar o envio de análises das cotações de ações para seu gestor da sua empresa.
+O principal objetivo deste projeto é automatizar o envio por email de análises das cotações de ações para seu gestor da sua empresa.
 
 ## Cenário
 

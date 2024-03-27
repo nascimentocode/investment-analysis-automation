@@ -10,6 +10,14 @@ O principal objetivo deste projeto é automatizar o envio de análises das cota�
 
 Imagine que você trabalha em uma empresa de investimentos e é responsável por fornecer informações atualizadas e análises do mercado financeiro para o gestor da empresa. Essas análises podem incluir insights sobre tendências do mercado, recomendações de investimento e análises técnicas e fundamentais de diferentes ativos.
 
+## Funcionalidades
+
+- **Automação do Envio de Emails**: O projeto automatiza o processo de envio de emails diários com análises das cotações para os clientes.
+- **Análises Personalizadas**: Os clientes recebem análises personalizadas de acordo com seus interesses e carteiras de investimento.
+- **Atualização Diária**: As análises são atualizadas diariamente com as informações mais recentes do mercado financeiro.
+- **Integração com Dados Externos**: O projeto pode ser integrado com fontes externas de dados para obter informações atualizadas sobre as cotações.
+- **Personalização do Conteúdo**: As análises enviadas por email podem ser personalizadas de acordo com as preferências e necessidades individuais de cada cliente.
+
 ## Como Utilizar
 
 1. Clone este repositório em sua máquina local.

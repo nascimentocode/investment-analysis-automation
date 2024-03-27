@@ -23,13 +23,13 @@ Imagine que você trabalha em uma empresa de investimentos e é responsável por
 
     Utilizando HTTPS:
      ```bash
-     git clone https://github.com/nascimentocode/budget-issuance-automation.git
+     git clone https://github.com/nascimentocode/investment-analysis-automation.git
      ```
   
      ou utilizando o SSH:
   
      ```bash
-     git clone git@github.com:nascimentocode/budget-issuance-automation.git
+     git clone git@github.com:nascimentocode/investment-analysis-automation.git
      ```
 
 2. **Instale as Dependências**: Certifique-se de ter todas as dependências instaladas. Você pode fazer isso executando o seguinte comando no terminal:

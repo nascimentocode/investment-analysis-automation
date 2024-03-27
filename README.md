@@ -4,11 +4,11 @@ Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerd
 
 ## Objetivo
 
-O principal objetivo deste projeto é automatizar o envio diário de análises das cotações para os clientes da empresa de investimentos. Isso permite que os clientes estejam atualizados sobre o mercado financeiro e possam tomar decisões de investimento mais informadas.
+O principal objetivo deste projeto é automatizar o envio de análises das cotações de ações para seu gestor da sua empresa.
 
 ## Cenário
 
-Imagine que você trabalha em uma empresa de investimentos e é responsável por fornecer informações atualizadas e análises do mercado financeiro para os clientes. Essas análises podem incluir insights sobre tendências do mercado, recomendações de investimento e análises técnicas e fundamentais de diferentes ativos.
+Imagine que você trabalha em uma empresa de investimentos e é responsável por fornecer informações atualizadas e análises do mercado financeiro para o gestor da empresa. Essas análises podem incluir insights sobre tendências do mercado, recomendações de investimento e análises técnicas e fundamentais de diferentes ativos.
 
 ## Ferramentas Utilizadas
 

@@ -10,22 +10,6 @@ O principal objetivo deste projeto é automatizar o envio de análises das cota�
 
 Imagine que você trabalha em uma empresa de investimentos e é responsável por fornecer informações atualizadas e análises do mercado financeiro para o gestor da empresa. Essas análises podem incluir insights sobre tendências do mercado, recomendações de investimento e análises técnicas e fundamentais de diferentes ativos.
 
-## Ferramentas Utilizadas
-
-- Jupyter Notebook
-- Python
-- Bibliotecas Python como Pandas, Matplotlib, e outras, para análise de dados e geração de gráficos.
-- Biblioteca de envio de emails em Python.
-
-## Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
-
-- **notebooks**: Contém os notebooks Jupyter utilizados para análise de dados e geração de relatórios.
-- **data**: Pasta opcional que pode conter dados utilizados nas análises.
-- **scripts**: Scripts Python utilizados para a automação do processo de envio de emails.
-- **docs**: Documentação do projeto, incluindo este arquivo.
-
 ## Como Utilizar
 
 1. Clone este repositório em sua máquina local.

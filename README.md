@@ -1,6 +1,6 @@
 # Projeto de Envio de Análise Diária das Cotações
 
-Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerdata. O objetivo é enviar um email todos os dias com análises das cotações para clientes de uma empresa de investimentos.
+Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerdata.
 
 ## Objetivo
 

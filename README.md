@@ -12,11 +12,10 @@ Imagine que você trabalha em uma empresa de investimentos e é responsável por
 
 ## Funcionalidades
 
-- **Automação do Envio de Emails**: O projeto automatiza o processo de envio de emails diários com análises das cotações para os clientes.
-- **Análises Personalizadas**: Os clientes recebem análises personalizadas de acordo com seus interesses e carteiras de investimento.
-- **Atualização Diária**: As análises são atualizadas diariamente com as informações mais recentes do mercado financeiro.
-- **Integração com Dados Externos**: O projeto pode ser integrado com fontes externas de dados para obter informações atualizadas sobre as cotações.
-- **Personalização do Conteúdo**: As análises enviadas por email podem ser personalizadas de acordo com as preferências e necessidades individuais de cada cliente.
+- Automação do Envio de Emails
+- Análises Personalizadas
+- Atualização das Análises Diárias
+- Integração com Dados Externos
 
 ## Como Utilizar
 
@@ -43,4 +42,4 @@ Imagine que você trabalha em uma empresa de investimentos e é responsável por
     * Abra o arquivo `main.ipynb` no Jupyter Notebook.
 
 4. **Execute as Células**:
-   * Execute as células do notebook para gerar os orçamentos de acordo com as necessidades da sua empresa.
+   * Execute as células do notebook para realizar o envio das análises por email.

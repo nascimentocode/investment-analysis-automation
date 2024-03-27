@@ -20,15 +20,27 @@ Imagine que você trabalha em uma empresa de investimentos e é responsável por
 
 ## Como Utilizar
 
-1. Clone este repositório em sua máquina local.
-2. Instale as dependências necessárias.
-3. Execute os notebooks Jupyter para gerar as análises desejadas.
-4. Utilize os scripts Python para automatizar o envio dos emails com as análises.
+1. **Clone o Repositório**: Clone este repositório em sua máquina local.
 
-## Contribuição
+    Utilizando HTTPS:
+     ```bash
+     git clone https://github.com/nascimentocode/budget-issuance-automation.git
+     ```
+  
+     ou utilizando o SSH:
+  
+     ```bash
+     git clone git@github.com:nascimentocode/budget-issuance-automation.git
+     ```
 
-Contribuições são bem-vindas! Se você identificar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+2. **Instale as Dependências**: Certifique-se de ter todas as dependências instaladas. Você pode fazer isso executando o seguinte comando no terminal:
 
-## Licença
+      ```bash
+      pip install -r requirements.txt
+      ```
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+3. **Abra o Jupyter Notebook**:
+    * Abra o arquivo `main.ipynb` no Jupyter Notebook.
+
+4. **Execute as Células**:
+   * Execute as células do notebook para gerar os orçamentos de acordo com as necessidades da sua empresa.
